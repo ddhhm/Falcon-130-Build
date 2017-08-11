@@ -6,7 +6,7 @@ I want to build my first true "drone".  Basically, it's an RC model that I will 
 Parts I have:
 
     Frame   Falcon 130
-    Motors  4x EMAX "red bottom" 3604 motors at 4000kv
+    Motors  4x EMAX "red bottom" 4000kv 1306 motors
     ESCs    20A Cicada 4-in-1 ESC
     FC      Betaflight 3 flight controller
     VTX     FX799T 200mW 
