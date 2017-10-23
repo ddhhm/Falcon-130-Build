@@ -1,4 +1,7 @@
 # Falcon-130-Build
+
+Note: I have had a successful flight.  https://youtu.be/MfE_hjf2OHk
+
 Progress on my quadcopter based on the Falcon 130 frame
 
 I want to build my first true "drone".  Basically, it's an RC model that I will fly with a Taranis radio and FatShark goggles.  It will not have capabilities like a camera drone such as GPS navigation and cannot be controlled via my mobile phone, but it will be faster than a phantom and the Taranis has less latency than a mobile phone.
